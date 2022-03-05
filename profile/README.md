@@ -28,3 +28,5 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
   
 - [FlutterScope: Examples of Package Usage (FSEPU)](https://github.com/flutterscope/.github/blob/main/Examples_of_Package_Usage.md)  
   Flutter example applications on how to use the Flutter package.
+- [FlutterScope](https://github.com/flutterscope/.github/blob/main/FlutterScope.md)  
+  Repositories about FlutterScope.
