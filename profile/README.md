@@ -2,7 +2,7 @@
 
 Let's build together and learn about Flutter and Dart. Join the FlutterScope community.
 
-<img src="https://img.icons8.com/color/20/000000/flutter.png"/> <img src="https://img.icons8.com/color/20/000000/dart.png"/> <img src="https://img.icons8.com/color/20/000000/hearts.png"/> <img src="https://img.icons8.com/color/20/000000/sri-lanka.png"/> <img src="https://img.icons8.com/color/20/000000/e-learning.png"/> 
+<img src="https://img.icons8.com/color/28/000000/flutter.png"/> <img src="https://img.icons8.com/color/28/000000/dart.png"/> <img src="https://img.icons8.com/color/28/000000/hearts.png"/> <img src="https://img.icons8.com/color/28/000000/sri-lanka.png"/> <img src="https://img.icons8.com/color/28/000000/e-learning.png"/> 
 
 <img width="180" alt="FlutterScopeLK_GitHubLayout" src="https://user-images.githubusercontent.com/98766441/153240473-a2dacea5-8ecf-423d-9346-5fd46d75b2c7.png"> 
 
