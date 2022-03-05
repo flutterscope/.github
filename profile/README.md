@@ -23,3 +23,8 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 <a href="https://twitter.com/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/twitter--v1.png"/>
 <a href="https://www.linkedin.com/groups/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/linkedin.png"/>
 <a href="https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ"><img src="https://img.icons8.com/fluency/42/000000/youtube-play.png"/>
+  
+### Repositories
+  
+- [FlutterScope: Examples of Package Usage (FSEPU)](https://github.com/flutterscope/.github/blob/main/Examples_of_Package_Usage.md)  
+  Flutter example applications on how to use the Flutter package.
