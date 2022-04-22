@@ -30,3 +30,7 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
   Flutter example applications on how to use the Flutter package.
 - [FlutterScope](https://github.com/flutterscope/.github/blob/main/FlutterScope.md)  
   Repositories about FlutterScope.
+
+### Tutorial Playlist
+
+- UPDATE SOON
