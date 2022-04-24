@@ -33,6 +33,11 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 
 ### Tutorial Playlist
 
+- FlutterScope
+- S01 - Setup Flutter on windows
+  
+### Videos
+  
 - Channel Intro | FlutterScope | Flutter Sinhala Roadmap 2022
 - S01E01 - Requirements for Flutter (Windows) | Sinhala
 - S01E02 - How to install Flutter on Windows | Sinhala
