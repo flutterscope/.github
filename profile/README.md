@@ -33,13 +33,13 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 
 ### Tutorial Playlist
 
-- FlutterScope
-- S01 - Setup Flutter on windows
+- [FlutterScope](https://www.youtube.com/watch?v=vAbYJm7QqJk&list=PLJLSfLwaICgqESBez1TTInCHC9RhiJg5x)
+- [S01 - Setup Flutter on windows](https://www.youtube.com/playlist?list=PLJLSfLwaICgqDuQWWv9BBgz2hSX2DAnFv)
   
 ### Videos
   
-- Channel Intro | FlutterScope | Flutter Sinhala Roadmap 2022
-- S01E01 - Requirements for Flutter (Windows) | Sinhala
-- S01E02 - How to install Flutter on Windows | Sinhala
-- S01E03 - Install Android Studio for Flutter on Windows | Sinhala
+- [Channel Intro | FlutterScope | Flutter Sinhala Roadmap 2022](https://www.youtube.com/watch?v=vAbYJm7QqJk)
+- [S01E01 - Requirements for Flutter (Windows) | Sinhala](https://www.youtube.com/watch?v=GmcgXuXg4T8)
+- [S01E02 - How to install Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=wXVkBtYY4Uw)
+- [S01E03 - Install Android Studio for Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=R3QyaFuml7E)
 
