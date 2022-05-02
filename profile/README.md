@@ -34,7 +34,7 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 ### Tutorial Playlist
 
 - [FlutterScope](https://www.youtube.com/watch?v=vAbYJm7QqJk&list=PLJLSfLwaICgqESBez1TTInCHC9RhiJg5x)
-- [S01 - Setup Flutter on windows](https://www.youtube.com/playlist?list=PLJLSfLwaICgqDuQWWv9BBgz2hSX2DAnFv)
+- [S01 - Setup Flutter on Windows](https://www.youtube.com/playlist?list=PLJLSfLwaICgqDuQWWv9BBgz2hSX2DAnFv)
   
 ### Videos
   
