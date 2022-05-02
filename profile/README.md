@@ -42,4 +42,5 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 - [S01E01 - Requirements for Flutter (Windows) | Sinhala](https://www.youtube.com/watch?v=GmcgXuXg4T8)
 - [S01E02 - How to install Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=wXVkBtYY4Uw)
 - [S01E03 - Install Android Studio for Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=R3QyaFuml7E)
+- [S01E04 - Fix Google Chrome Issue for Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=oLXGx_Ai1fQ)
 
