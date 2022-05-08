@@ -12,13 +12,13 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 - [LinkedIn: https://www.linkedin.com/groups/flutterscope](https://www.linkedin.com/groups/flutterscope)
 - [YouTube: https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ](https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ)
 
-<a href="https://flutterscope.com"><img src="https://img.icons8.com/fluency/42/000000/domain--v1.png"/>
-<a href="https://www.facebook.com/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/facebook-circled.png"/>
-<a href="https://www.instagram.com/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/instagram-new--v1.png"/>
-<a href="https://github.com/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/github.png"/>
-<a href="https://twitter.com/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/twitter--v1.png"/>
-<a href="https://www.linkedin.com/groups/flutterscope"><img src="https://img.icons8.com/fluency/42/000000/linkedin.png"/>
-<a href="https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ"><img src="https://img.icons8.com/fluency/42/000000/youtube-play.png"/>
+<a href="https://flutterscope.com"><img src="https://img.icons8.com/fluency/36/000000/domain--v1.png"/>
+<a href="https://www.facebook.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/facebook-circled.png"/>
+<a href="https://www.instagram.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/instagram-new--v1.png"/>
+<a href="https://github.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/github.png"/>
+<a href="https://twitter.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/twitter--v1.png"/>
+<a href="https://www.linkedin.com/groups/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/linkedin.png"/>
+<a href="https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ"><img src="https://img.icons8.com/fluency/36/000000/youtube-play.png"/>
   
 ### Repositories
   
