@@ -30,16 +30,60 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 
 ### Playlists
 
-- [FlutterScope](https://www.youtube.com/watch?v=vAbYJm7QqJk&list=PLJLSfLwaICgqESBez1TTInCHC9RhiJg5x)
-- [S01 - Setup Flutter on Windows](https://www.youtube.com/playlist?list=PLJLSfLwaICgqDuQWWv9BBgz2hSX2DAnFv)
+<details>
+  <summary>
+    <a href="https://www.youtube.com/watch?v=vAbYJm7QqJk&list=PLJLSfLwaICgqESBez1TTInCHC9RhiJg5x">Channel Announcements</a>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://youtu.be/vAbYJm7QqJk">Channel Intro | FlutterScope | Flutter Sinhala Roadmap 2022</a>
+    </li>
+  </ul>
+</details>
   
-### Videos
+<details>
+  <summary>
+    <a href="https://www.youtube.com/playlist?list=PLJLSfLwaICgqDuQWWv9BBgz2hSX2DAnFv">S01 - Setup Flutter on Windows</a>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://youtu.be/GmcgXuXg4T8">S01E01 - Requirements for Flutter (Windows) | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/wXVkBtYY4Uw">S01E02 - How to install Flutter on Windows | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/R3QyaFuml7E">S01E03 - Install Android Studio for Flutter on Windows | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/oLXGx_Ai1fQ">S01E04 - Fix Google Chrome Issue for Flutter on Windows | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/1FWlHnjxQmE">S01E05 - Install Visual Studio for Flutter | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/HurSMRVip_0">S01E06 - Install Visual Studio Code for Flutter | Sinhala</a>
+    </li>
+  </ul>
+</details>
   
-- [Channel Intro | FlutterScope | Flutter Sinhala Roadmap 2022](https://www.youtube.com/watch?v=vAbYJm7QqJk)
-- [S01E01 - Requirements for Flutter (Windows) | Sinhala](https://www.youtube.com/watch?v=GmcgXuXg4T8)
-- [S01E02 - How to install Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=wXVkBtYY4Uw)
-- [S01E03 - Install Android Studio for Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=R3QyaFuml7E)
-- [S01E04 - Fix Google Chrome Issue for Flutter on Windows | Sinhala](https://www.youtube.com/watch?v=oLXGx_Ai1fQ)
-- [S01E05 - Install Visual Studio for Flutter | Sinhala](https://www.youtube.com/watch?v=1FWlHnjxQmE)
-- [S01E06 - Install Visual Studio Code for Flutter | Sinhala](https://www.youtube.com/watch?v=HurSMRVip_0)
-
+  
+<details>
+  <summary>
+    <a href="https://www.youtube.com/playlist?list=PLJLSfLwaICgrg9aOsRk7s90WsUDvz8vsl">S02 - Flutter Beginning</a>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://youtu.be/hh9DssMzbgo">S02E01 - Create New Flutter Project Using Terminal | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/335tf9bHIAc">S02E02 - Create New Flutter Project Using Visual Studio Code | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/vAIdd9Zs4ao">S02E03 - Create New Flutter Project Using IntelliJ IDEA | Sinhala</a>
+    </li>
+    <li>
+      <a href="https://youtu.be/PHAoC7CSRoM">S02E04 - Create New Flutter Project Using Android Studio | Sinhala</a>
+    </li>
+  </ul>
+</details>
