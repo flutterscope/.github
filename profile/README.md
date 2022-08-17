@@ -28,6 +28,13 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 - [LinkedIn: https://www.linkedin.com/groups/flutterscope](https://www.linkedin.com/groups/flutterscope)
 - [YouTube: https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ](https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ)
 
+### Support
+
+If you are a visitor to the FlutterScope community, you are welcome, and thanks for visiting us. If you need any help or would like to have a discussion, just use our discussion tab to get started with support.
+
+- Discussion Tab - [Click here](https://github.com/orgs/flutterscope/discussions)
+- Repository - [Click here](https://github.com/orgs/flutterscope/discussions)
+
 ### Playlists
 
 <details>
