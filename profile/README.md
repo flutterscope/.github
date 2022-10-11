@@ -15,7 +15,7 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 <a href="https://www.instagram.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/instagram-new--v1.png"/>
 <a href="https://github.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/github.png"/>
 <a href="https://twitter.com/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/twitter--v1.png"/>
-<a href="https://www.linkedin.com/groups/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/linkedin.png"/>
+<a href="https://www.linkedin.com/company/flutterscope"><img src="https://img.icons8.com/fluency/36/000000/linkedin.png"/>
 <a href="https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ"><img src="https://img.icons8.com/fluency/36/000000/youtube-play.png"/>
 
 ### Connect with us
@@ -25,7 +25,7 @@ Let's build together and learn about Flutter and Dart. Join the FlutterScope com
 - [Instagram: https://www.instagram.com/flutterscope](https://www.instagram.com/flutterscope)
 - [GitHub: https://github.com/flutterscope](https://github.com/flutterscope)
 - [Twitter: https://twitter.com/flutterscope](https://twitter.com/flutterscope)
-- [LinkedIn: https://www.linkedin.com/groups/flutterscope](https://www.linkedin.com/groups/flutterscope)
+- [LinkedIn: https://www.linkedin.com/company/flutterscope](https://www.linkedin.com/company/flutterscope)
 - [YouTube: https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ](https://www.youtube.com/channel/UCq3M1Wc6u5ax-QuywAp0eUQ)
 
 ### Support
